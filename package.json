@@ -1,11 +1,8 @@
 {
-  "name": "pomelo-flashpolicyserver",
-  "version": "0.1.0",
-  "main": "./flashPolicyServer",
-  "author": {
-    "name": "Eric Muyser",
-    "email": "eric@muyser.com"
-  },
-  "dependencies": {
-  }
+    "name": "huomaotv-flashpolicyserver",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "policyfile": ""
+    }
 }
